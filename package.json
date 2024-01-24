@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "inquirer": "^9.2.12"
+  },
+  "name": "stuff",
+  "description": "git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin git@github.com:meatwad787/Prompt_Engineering.git\r git push -u origin main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
