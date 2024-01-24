@@ -8,3 +8,5 @@ Use the right npm cmds to install the right stuff.
 (npm install installs the dependecies from the package.json file)
 (or 'npm --save and the name of the dependecies')
 
+"scissors" 
+"scissors" 
